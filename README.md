@@ -1,2 +1,2 @@
-# tf-ion-web-app
-This repo to hold terraform code to create AWS EC2 Instance using Custom Packer images
+# packer
+Repo to hold packer templates to build customized AMIs for DevOps project
